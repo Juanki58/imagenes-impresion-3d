@@ -1,0 +1,27 @@
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor-local settings
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.autosave
+.~lock.*#
+
+# Optional local Python tooling
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Logs
+*.log
